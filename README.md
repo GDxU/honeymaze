@@ -12,5 +12,5 @@
 
 **Beta version** [beta version](https://raw.githubusercontent.com/raybest4u/HoneycombsMaze/master/image/honey-release.apk)
 
-**License:** [GPLv2](https://raw.githubusercontent.com/raybest4u/HoneycombsMaze/master/LICENSE.txt)
+**License:** [MIT](https://opensource.org/licenses/MIT)
 
