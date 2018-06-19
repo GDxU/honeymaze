@@ -8,7 +8,7 @@
 
 [![](https://raw.githubusercontent.com/raybest4u/HoneycombsMaze/master/image/1.jpg)](https://raw.githubusercontent.com/raybest4u/HoneycombsMaze/master/image/honey-release.apk) [![](https://raw.githubusercontent.com/raybest4u/HoneycombsMaze/master/image/2.jpg)](https://raw.githubusercontent.com/raybest4u/HoneycombsMaze/master/image/honey-release.apk) [![](https://raw.githubusercontent.com/raybest4u/HoneycombsMaze/master/image/4.jpg)](https://raw.githubusercontent.com/raybest4u/HoneycombsMaze/master/image/honey-release.apk)
 
-[![](https://raw.githubusercontent.com/raybest4u/HoneycombsMaze/master/image/307.png![输入图片说明] 
+ ![输入图片说明](https://gitee.com/uploads/images/2018/0619/113606_5000b658_65573.png "333.png")
 
 **Beta version** [beta version](https://raw.githubusercontent.com/raybest4u/HoneycombsMaze/master/image/honey-release.apk)
 
